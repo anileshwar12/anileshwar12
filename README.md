@@ -72,17 +72,10 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on **A
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anileshwar/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/TheAnileshwar" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/anileshwarchandu" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
-    
-  </a>
+  <a href="https://www.linkedin.com/in/anileshwar/" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" /></a><a href="https://x.com/TheAnileshwar" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" /></a><a href="https://www.instagram.com/anileshwarchandu" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" /></a>
 </p>
+
+
 
 
 
