@@ -85,18 +85,11 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on **A
 </p>
 
 
-### 📝 Projects
 
-Here are some of my highlighted projects:
+<br><br>
 
-- **[KnowYourIllness](https://github.com/anileshwar12/KnowYourIllness)**: An Android app that predicts possible diseases based on selected symptoms using a machine learning model. Built with Jetpack Compose and integrated with TFLite for on-device predictions.
 
-- **[FaceApp](https://github.com/anileshwar12/FaceApp)**: An Android app that performs face recognition and attribute analysis using an external face recognition API. Built with clean architecture and real-time camera input support.
 
-- **[YTDownload](https://github.com/anileshwar12/ytdownload)**: A Python-based YouTube video downloader using `yt-dl`. [Download .exe file](https://github.com/anileshwar12/ytdownload/releases/latest).
+<p align="center"><i>If I had to sum up my dev philosophy in one line:</i></p>
+<p align="center"><b>“Make it work, make it right, make it fast.”</b><br>– Kent Beck</p>
 
-Feel free to explore more of my repositories and contributions!
-
----
-
-Thanks for visiting my profile! 🌟
